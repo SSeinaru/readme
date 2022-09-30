@@ -1,14 +1,14 @@
 # Recept voor stokbrood
 
-!imageC:\Users\Seinaru\Downloads\"C:\Users\Seinaru\Downloads\Baguettes,_Paris,_France_-_panoramio.jpg
+![image](C:\Users\Seinaru\Downloads\"C:\Users\Seinaru\Downloads\Baguettes,_Paris,_France_-_panoramio.jpg)
 
 ## Benodigheden
 
-*500 gr broodbloem (het liefst Franse bloem T65 of T55)
-*320 gr water (koud kraanwater in de zomer, rond de 25 graden in de winter)
-*10 gr zout
-*1 gr instantgist (¼ tl)
-*griesmeel
+* 500 gr broodbloem (het liefst Franse bloem T65 of T55)
+* 320 gr water (koud kraanwater in de zomer, rond de 25 graden in de winter)
+* 10 gr zout
+* 1 gr instantgist (¼ tl)
+* griesmeel
 
 ### Bereiding
 
