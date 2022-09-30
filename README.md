@@ -1,6 +1,6 @@
 # Recept voor stokbrood
 
-![image](C:\Users\Seinaru\Downloads\"C:\Users\Seinaru\Downloads\Baguettes,_Paris,_France_-_panoramio.jpg)
+![image](Baguettes,_Paris,_France_-_panoramio.jpg)
 
 ## Benodigheden
 
